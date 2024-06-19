@@ -1,0 +1,167 @@
++ Singularity Net Ambassador Program
+
+Format -> Name: Type
+Ambassador Program: Project
+Ambassadors: Alternative
+ambassador-general: Channel
+getting-started: Channel
+the-forum: Channel [Forum, rename to ambassador-forum?]
+TBD Channels meeting-summaries, treasury-updates
+
++ Ambassador Program entities
+Assembly: Group
+Education: Guild
+Treasury: Guild
+Strategy: Guild
+Process: Guild
+Dework PBL: Workgroup
+Knowledge Base: Workgroup
+Incubation: Guild
+Marketing: Guild
+Writers': Workgroup
+Writers: Alternative
+Video: Workgroup
+Translation: Workgroup
+Gamers: Guild
+Onboarding: Workgroup
+Governance: Workgroup
+Archival: Workgroup
+Archives: Alternative
+Developer: Workgroup
+
+@Leaders will create Channel and Alternative entries
+
+Conflict resolution team [defined group?]
+Eligible voters [formal group?]
+Ambassadors [separate group or Assembly Alternative?]
+
+dao-discussion: Channel [for organizations including Supervisory Counsil]
+
+51 addresses https://docs.google.com/spreadsheets/d/1GMAY25CJcwmEbRUM0keBxws_5fc4d5k0mlR6EXiGxcw
+
++ Singularity Net Spinoffs, Projects, Groups
+Singularity Net: Organization
+sNET: Alternative
+SingularityNet: Alternative
+AGFI: Token
+snet-general: Channel
+TBD Channels: faq questions suggestions announcements agi-chat
+
++ Deep Funding: Project
+DF: Alternative: Deep Funding
+deep-funding-general: Channel
+proposals: Channel
+deep-funding-focus-group: Channel [for organization?]
+TBD Channels ask-the-experts
+
++ Education Guild topics
+Per https://docs.google.com/spreadsheets/d/1Z571NxFC8vvCTvpvsake5PYess3MM3mLi1VaFYgk8r0
+REJUVE.AI: 
+REJUVE.BIO:
+NUNET:
+JAM GALAXY:
+OPEN COG HYPEREON:
+COGITO:
+SOPHIA VERSE:
+MINDPLEX:
+TRUE AGI:
+PATHFORM:
+SINGULARITY DAO:
+
+SophiaVerse: Alternative: Sophia Verse
+OpenCog: Alternative: Open Cog Hyperion
+TrueAGI: Alternative: True AGI
+
+sdao-updates: Channel
+hypercycle-chat: Channel
+mindplex-chat: Channel
+jam-galaxy-chat: Channel
+rejuve-chat: Channel
+parthform-chat: Channel
+nunet-chat: Channel
+sophiaverse-chat: Channel
+
+Add
+Awakening Health
+HyperCycle
+
+Active Projects?
+
+Singularity Studio
+Twin Protocol
+Zarqa
+
+TBD channels project-portfolios [Forum], project-news [Announcement]
+
++Project Contacts
+Per https://docs.google.com/document/d/1J3YGxLU4U3YRFAkOC2mSJh1v-ZSTcZvomk8M0LQAm7E
+Russell: SDAO, SophiaVerse
+Sandra G: Cogito
+Romi k: Mindplex
+Axel: Rejuve.bio
+Stuart: Rejuve.ai
+
+
+Ecosystem infographic lists 17 names but only 12 have cards underneath https://singularitynet.io/ecosystem
+Cogito: Cogito provides institutional-grade investment products by bringing traditional financial assets onchain.
+SingularityDAO: SingularityDAO is a decentralised Portfolio Management Protocol designed to enable anybody to safely and easily manage crypto assets, supported by superior risk management and analytics tools; smart money, on-chain.
+Rejuve.AI Rejuve builds a decentralized network of researchers, clinicians & data contributors, working together on longevity research, making the resulting solutions affordable & accessible to all.
+Nunet: NuNet builds infrastructure providing globally distributed computing power and storage for decentralized networks.
+SophiaVerse: SophiaVERSE starts with NFT-based gameplay and marketplace and evolves into a full-fledged environment and API for games integration into the multiverse.
+Awakening Health: Awakening brings Grace to life at a time when medical systems are at a breaking point and cutting edge AI robotics are the solution to Life Made Better for elderly people.
+Jam Galaxy: Jam Galaxy is music decentralized. We connect artists with music communities, create innovative AI music tools, host a music data collective, a tokenomic tiered rewards structure, and multisensory virtual experiences.
+HyperCycle: A new layer 1 blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI applications.
+Mindplex: A decentralized media platform connecting content creators and consumers, combining an AI-enhanced media experience with a merit based reputation engine.
+TrueAGI: TrueAGI aims to commercialise and deliver the application of Artificial General Intelligence to enterprise customers.
+Singularity Studio: Singularity Studio has created an ecosystem of innovative AI, blockchain and Web3 companies to help in designing solutions to address a range of key challenges across a variety of sectors.
+Twin Protocol: Train your digital twin to do your work for you.
+
+Missing Cards:
+	SingularityNet
+Rejuve.bio
+Awakening Health
+Zarqa
+Deep Funding
+
+Pathform?
+
+++++
+https://blog.singularitynet.io/singularitynet-latest-ecosystem-updates-november-2023-2a2a84479b40
+Nov Ecosystem Update mentions entities and initiatives:
+∘ Deep Funding
+∘ Mindplex
+∘ Awakening Health
+∘ SophiaVerse
+∘ HyperCycle
+∘ SingularityDAO
+∘ Rejuve.AI
+∘ Rejuve Biotech
+∘ NuNet
+
+Dev has 5 subheadings https://dev.singularitynet.io/
+Research lists 7, with further subheadings like MeTTa https://singularitynet.io/research-initiatives
+Technology has 4 tabs, with Platform having Marketplace and Publisher subheadings https://singularitynet.io/technology 
+Ambassador Gitbook links some, including NuNet and Rejuve https://snet-ambassadors.gitbook.io/home/links/singularitynet-links
+Telegram channels https://community.singularitynet.io/t/singularitynet-telegram-group-directory/3702
+Extracing Marketplace entries
+
+Meeting types / names
+
+Assembling Discord participant and role / group membership [Ambassador]
+Telegram & Discord chats
+Dework, pol.is, Zoom etc. transcripts and captures, Miro, token voting listings, surveys
+
+Unpack Deep Funding roles, participants, proposals?
+
+Individual attributes and external labels, links, addresses?
+Automate status & membership updates?
+
+
+
+Language models and Knowledge Graph-based semantic processing vary notably not only in formats but in basic properties of expected inputs and derived results. Typical data store and indexing technologies have distinct architectures, as vector, graph, or relational databases or formatted files.
+
+Meanwhile, exported chat logs, meeting transcripts, survey data, Social Media posts, and diagrams and publications institute rather specific content structures. The identifiers for participants and accounts, as representative of individuals, have strict rules, formats, and privacy requirements in each information silo, repeating infrequently. The designators for organizational entities mutate, as do their participation levels and roles. Membership rosters update frequently.
+
+We will provide a practical methodology, compatible with standards and legacy formats, to address robust construction and flexible interchange of mappings of identifies and attribute labels between technology-specific data store and information silo formats used to support diverse community environments and entity contexts.
+
+A sample implementation will support a cross-section of LLM and KG processing steps by mapping identifiers, designators, and labels from several data sources immediately relevant to the Singularity NET ecosystem.
