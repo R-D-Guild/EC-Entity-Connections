@@ -155,13 +155,3 @@ Unpack Deep Funding roles, participants, proposals?
 
 Individual attributes and external labels, links, addresses?
 Automate status & membership updates?
-
-
-
-Language models and Knowledge Graph-based semantic processing vary notably not only in formats but in basic properties of expected inputs and derived results. Typical data store and indexing technologies have distinct architectures, as vector, graph, or relational databases or formatted files.
-
-Meanwhile, exported chat logs, meeting transcripts, survey data, Social Media posts, and diagrams and publications institute rather specific content structures. The identifiers for participants and accounts, as representative of individuals, have strict rules, formats, and privacy requirements in each information silo, repeating infrequently. The designators for organizational entities mutate, as do their participation levels and roles. Membership rosters update frequently.
-
-We will provide a practical methodology, compatible with standards and legacy formats, to address robust construction and flexible interchange of mappings of identifies and attribute labels between technology-specific data store and information silo formats used to support diverse community environments and entity contexts.
-
-A sample implementation will support a cross-section of LLM and KG processing steps by mapping identifiers, designators, and labels from several data sources immediately relevant to the Singularity NET ecosystem.
