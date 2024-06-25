@@ -1,6 +1,7 @@
 # EC-Entity-Connections
 
-## Methodology and Process for Structuring Connections between Entities for @SingularityNET Ambassadors Program &amp; Ecosystem 
+## Methodology and Process for Structuring Connections between Entities
+### SingularityNET Ambassadors Program &amp; Ecosystem 
 
 Entity Connections and assigning attributes to entities and individuals in organizations.
 + Ambassador Program Relevance: Continuous AI analysis
